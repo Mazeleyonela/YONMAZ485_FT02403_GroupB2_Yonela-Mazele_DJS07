@@ -1,11 +1,12 @@
 
-function App() {
+export default function App() {
 
   return (
-    <>
-     
-    </>
+    <div>
+      <Header/>
+      <Meme/>
+    </div>
   )
 }
 
-export default App
+
